@@ -26,8 +26,7 @@ Sales analysis for **Ghifty's Bowl**, my fruit-salad business in Ibadan. I logge
 - Next step: add cost per bowl so the dashboard shows profit, not just revenue.
 
 ## Dashboard
-![Dashboard](my-Dashboard.png)
-![Dashboard 2](my-Dashboard-2.png)
+![Dashboard](dashboard_2.png)
 
 ## Files
 - `Sales_Data.xlsx` — raw sales log (sales_data, product_data sheets)
